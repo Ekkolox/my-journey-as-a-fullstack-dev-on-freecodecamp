@@ -4,7 +4,7 @@ This repository documents my personal growth and practical progress through [Fre
 - ✅ Certification projects (Responsive Web Design, JavaScript Algorithms, Frontend Libraries, APIs, and more)
 
 ## 🧠 Why This Exists
-To track my skills evolution, keep myself accountable, and share knowledge with fellow developers. Whether you're a beginner or mentor, feel free to fork, critique, or get inspired.
+To track my skills evolution, and keep myself accountable 
 
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript, Python etc
