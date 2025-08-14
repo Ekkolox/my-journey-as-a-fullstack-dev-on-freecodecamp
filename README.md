@@ -2,9 +2,6 @@ This repository documents my personal growth and practical progress through [Fre
 
 ## 📚 What’s Inside
 - ✅ Certification projects (Responsive Web Design, JavaScript Algorithms, Frontend Libraries, APIs, and more)
-- 📝 Study notes and code snippets
-- 🌐 Live demos and deployed projects (where applicable)
-- 🔄 Iterative improvements and refactoring as I learn
 
 ## 🧠 Why This Exists
 To track my skills evolution, keep myself accountable, and share knowledge with fellow developers. Whether you're a beginner or mentor, feel free to fork, critique, or get inspired.
